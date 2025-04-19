@@ -1,16 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
   <diagram name="Page-1" id="sF0ofpWr8CGY15hyAE6l">
-    <mxGraphModel dx="1044" dy="1412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1392" dy="1599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YgsIUFnuYaH-n-QrTtp9-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="YgsIUFnuYaH-n-QrTtp9-56">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="930" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YgsIUFnuYaH-n-QrTtp9-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="30" y="-20" width="1000" height="860" as="geometry" />
+        </mxCell>
+        <mxCell id="YgsIUFnuYaH-n-QrTtp9-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YgsIUFnuYaH-n-QrTtp9-1" target="YgsIUFnuYaH-n-QrTtp9-59">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YgsIUFnuYaH-n-QrTtp9-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="445" y="130" width="140" height="140" as="geometry" />
@@ -155,6 +153,9 @@
         </mxCell>
         <mxCell id="YgsIUFnuYaH-n-QrTtp9-57" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Minikube Cluster&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="770" y="800" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YgsIUFnuYaH-n-QrTtp9-59" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Infrastructure Repository&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="455" y="-280" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
